@@ -72,4 +72,4 @@ Reports include:
 Need custom payloads? Want to simulate a specific attacker type? No problem. We offer **tailored tests**, private environments, and full collaboration.
 
 👉 Try our next-gen stress testing platform today  
-👉 Break your site — before someone else does.
+👉 Break your site — before someone else does
