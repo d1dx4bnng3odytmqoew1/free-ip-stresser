@@ -82,4 +82,4 @@ Need custom payloads? Want to simulate a specific attacker type? No problem. We 
 - FREE DDOS STRESSER 
 - FREE DDOS BOOTER 
 - FREE IP BOOTER 
-- FREE IP STRESSER
+- FREE IP STRESSER.
