@@ -4,7 +4,7 @@ Modern websites need more than pretty UIs. They need **resilience** — and that
 
 ## 🌐 Website
 
-[https://dumpcord.ru](https://dumpcord.ru/?r=git-1)
+[https://dumpstress.ru](https://dumpstress.ru/?r=git-1)
 
 ## 🌪️ Extreme Load, Real Attacks
 
@@ -84,4 +84,4 @@ Need custom payloads? Want to simulate a specific attacker type? No problem. We 
 - FREE DDOS STRESSER 
 - FREE DDOS BOOTER 
 - FREE IP BOOTER 
-- FREE IP STRESSER.
+- FREE IP STRESSER
